@@ -7,7 +7,7 @@
 
 - 📫 Reach me via **biganshagarwal@gmail.com**
 
-- 📄 Know about my experiences [https://offf.to/bigresume](https://offf.to/bigresume)
+- 📄 Know about my experiences on [https://offf.to/bigresume](https://offf.to/bigresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
