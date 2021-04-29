@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://offf.to/bigprojects](https://offf.to/bigprojects) 
 - 📝 I regularly write articles on [https://medium.com/@bigansh\_](https://medium.com/@bigansh_) 
 - 📫 Reach me via **biganshagarwal@gmail.com** 
-- 📄 Know about my experiences on [https://offf.to/bigresume](https://offf.to/bigresume)
+- 📄 My resume is available at [https://offf.to/bigresume](https://offf.to/bigresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
