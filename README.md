@@ -63,7 +63,7 @@
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://heroku.com" target="_blank">
-        <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="heroku" width="40" height="40" />
+        <img src="https://avatars.githubusercontent.com/u/23211?s=280&v=4" alt="heroku" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="40" height="40" />
@@ -84,10 +84,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+        <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Photoshop-512.png" alt="photoshop" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
