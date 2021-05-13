@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/bigansh_" style="margin-right: 200px" target="blank">
+    <a href="https://twitter.com/bigansh_" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://linkedin.com/in/bigansh" target="blank">
@@ -23,10 +23,10 @@
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://www.behance.net/bigansh_" target="blank">
-        <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Behance2_glyph_svg-512.png" alt="bigansh_" height="40" width="40" />
+        <img align="center" src="https://www.logolynx.com/images/logolynx/09/098a47681bb053fa476a97c5b5692a05.png" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://medium.com/@bigansh_" target="blank">
-        <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-512.png" alt="@bigansh_" height="40" width="40" />
+        <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Medium-512.png" alt="@bigansh_" height="40" width="40" />
     </a>
     <a href="https://offf.to/bigyoutube" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="uckm-w4w2zbgbxmqqhuzahva" height="40" width="40" />
@@ -36,43 +36,43 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+        <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" alt="aws" width="40" height="40" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" alt="cplusplus" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" width="40" height="40" />
     </a>
     <a href="https://dart.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+        <img src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" alt="dart" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
     </a>
     <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="figma" width="40" height="40" />
     </a>
     <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40" />
     </a>
     <a href="https://flutter.dev" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a>
     <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+        <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt="heroku" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+        <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/js-512.png" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
@@ -87,7 +87,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Photoshop-512.png" alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
@@ -96,7 +96,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/3_Xd_Adobe_logo_logos-512.png" alt="xd" width="40" height="40" />
     </a>
     <a href="https://zapier.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
