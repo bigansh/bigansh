@@ -48,7 +48,7 @@
         <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css3" width="40" height="40" />
     </a>
     <a href="https://dart.dev" target="_blank">
-        <img src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" alt="dart" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/dart.svg" alt="dart" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
