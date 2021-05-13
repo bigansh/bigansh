@@ -10,10 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/bigansh_" target="blank">
+    <a href="https://twitter.com/bigansh_" style="margin-right: 2px" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="bigansh_" height="40" width="40" />
     </a>
-    <br>
     <a href="https://linkedin.com/in/bigansh" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="bigansh" height="40" width="40" />
     </a>
