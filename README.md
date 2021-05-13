@@ -23,7 +23,7 @@
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://www.behance.net/bigansh_" target="blank">
-        <img align="center" src="https://www.logolynx.com/images/logolynx/09/098a47681bb053fa476a97c5b5692a05.png" alt="bigansh_" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/behance/behance-original.svg" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://medium.com/@bigansh_" target="blank">
         <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Medium-512.png" alt="@bigansh_" height="40" width="40" />
@@ -37,9 +37,6 @@
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" alt="cplusplus" width="40" height="40" />
