@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/bigansh_" target="blank">
+    <a href="https://twitter.com/bigansh" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="bigansh_" height="40" width="40" />
     </a>
     <a href="https://linkedin.com/in/bigansh" target="blank">
@@ -22,10 +22,10 @@
     <a href="https://instagram.com/bigansh_" target="blank">
         <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="bigansh_" height="40" width="40" />
     </a>
-    <a href="https://www.behance.net/bigansh_" target="blank">
+    <a href="https://www.behance.net/bigansh" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/behance/behance-original.svg" alt="bigansh_" height="40" width="40" />
     </a>
-    <a href="https://medium.com/@bigansh_" target="blank">
+    <a href="https://medium.com/@bigansh" target="blank">
         <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Medium-512.png" alt="@bigansh_" height="40" width="40" />
     </a>
     <a href="https://offf.to/bigyoutube" target="blank">
