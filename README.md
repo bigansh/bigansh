@@ -4,7 +4,7 @@
 </h3>
 
 - 👨‍💻 All of my projects are available at [https://offf.to/bigprojects](https://offf.to/bigprojects) 
-- 📝 I regularly write articles on [https://medium.com/@bigansh\_](https://medium.com/@bigansh_) 
+- 📝 I regularly write articles on [https://medium.com/@bigansh](https://medium.com/@bigansh_) 
 - 📫 Reach me via **biganshagarwal@gmail.com** 
 - 📄 My resume is available at [https://offf.to/bigresume](https://offf.to/bigresume)
 
