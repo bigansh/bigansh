@@ -3,6 +3,7 @@
     A passionate backend developer & entrepreneur who loves to build products.
 </h3>
 
+- 👨🏽‍🚀 You can check my portfolio at [https://rebrand.ly/bigansh](https://rebrand.ly/bigansh)
 - 👨‍💻 All of my projects are available at [https://rebrand.ly/bigansh/projects](https://rebrand.ly/bigansh/projects) 
 - 📝 I regularly write articles on [https://medium.com/@bigansh](https://medium.com/@bigansh)
 - 📫 Reach me via **biganshagarwal@gmail.com** 
