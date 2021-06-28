@@ -3,10 +3,10 @@
     A passionate backend developer & entrepreneur who loves to build products.
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://offf.to/bigprojects](https://offf.to/bigprojects) 
-- 📝 I regularly write articles on [https://medium.com/@bigansh](https://medium.com/@bigansh) 
+- 👨‍💻 All of my projects are available at [https://rebrand.ly/bigansh/projects](https://rebrand.ly/bigansh/projects) 
+- 📝 I regularly write articles on [https://medium.com/@bigansh](https://medium.com/@bigansh)
 - 📫 Reach me via **biganshagarwal@gmail.com** 
-- 📄 My resume is available at [https://offf.to/bigresume](https://offf.to/bigresume)
+- 📄 My resume is available at [https://rebrand.ly/bigansh/resume](https://rebrand.ly/bigansh/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
