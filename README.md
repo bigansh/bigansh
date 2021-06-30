@@ -9,7 +9,6 @@
 - 📫 Reach me via biganshagarwal@gmail.com 
 - 📄 My resume is available at [https://rebrand.ly/bigansh/resume](https://rebrand.ly/bigansh/resume)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/bigansh" target="blank">
         <img align="center" src="https://i.postimg.cc/3NKDDx81/Twitter.png" alt="bigansh_" height="40" width="40" />
