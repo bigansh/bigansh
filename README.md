@@ -3,9 +3,9 @@
     A backend developer, nerd & entrepreneur who loves to build products.
 </h3>
 
-- 👨🏽‍🚀 You can check my portfolio at [https://bigansh.ml](https://bigansh.ml)
-- 👨‍💻 All of my projects are available at [https://bigansh.ml/projects](https://bigansh.ml/projects) 
-- 📝 I regularly write articles on [https://bigansh.ml/blogs](https://bigansh.ml/blogs)
+- 👨🏽‍🚀 You can check my portfolio at [https://bigansh.me](https://bigansh.me)
+- 👨‍💻 All of my projects are available at [https://bigansh.me/projects](https://bigansh.me/projects) 
+- 📝 I regularly write articles on [https://bigansh.me/blogs](https://bigansh.me/blogs)
 - 📄 My resume is available at [https://go.bigansh.ml/resume](https://go.bigansh.ml/resume)
-- 📢 My social links can be accessed at [https://bigansh.ml/social](https://bigansh.ml/social)
+- 📢 My social links can be accessed at [https://bigansh.me/social](https://bigansh.me/social)
 - 📫 Reach me via email on hello@bigansh.ml
