@@ -8,4 +8,4 @@
 - 📝 I regularly write articles on [https://bigansh.me/blogs](https://bigansh.me/blogs)
 - 📄 My resume is available at [https://go.bigansh.ml/resume](https://go.bigansh.ml/resume)
 - 📢 My social links can be accessed at [https://bigansh.me/social](https://bigansh.me/social)
-- 📫 Reach me via email on hello@bigansh.ml
+- 📫 Reach me via email on hello@bigansh.me
