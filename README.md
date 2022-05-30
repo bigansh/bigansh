@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
 <h3 align="center">
-    A backend developer, nerd & entrepreneur who loves to build products.
+    A generalist cum backend developer, nerd, & an entrepreneur who loves to build products.
 </h3>
 
 - 👨🏽‍🚀 You can check my portfolio at [https://bigansh.me](https://bigansh.me)
