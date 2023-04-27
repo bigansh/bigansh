@@ -1,3 +1,3 @@
 <h3 align="center">
-    Hi 👋, I'm Ansh Agarwal, ex-<a href="https://slipbox.it">Slipbox</a>.
+    Hi 👋, Ansh here, currently building <a href="https://mygptbrain.com">myGPTBrain</a> | ex-<a href="https://slipbox.it">Slipbox</a>.
 </h3>
