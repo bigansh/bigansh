@@ -1,3 +1,3 @@
 <h3 align="center">
-    Hi 👋, Ansh here, currently building <a href="https://blip.fashion">Blip</a>.
+    Hi 👋, Ansh here!
 </h3>
