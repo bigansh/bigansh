@@ -1,3 +1,3 @@
 <h3 align="center">
-    Hi 👋, Ansh here!
+    Hi, Ansh here!
 </h3>
